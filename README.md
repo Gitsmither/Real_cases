@@ -4,5 +4,9 @@
 
 | Проект                | Описание           | Стэк и нывыки             |
 |:----------------------|:-------------------|:--------------------------|
-| [VUE](https://github.com/Gitsmither/ATS_CRM) | Создать модель, которая по фотографии определит приблизительный возраст человека | `Tensorflow`, `Keras`, `Python`, `ResNet`, `Seaborn`, CV, обработка изображений |
-| [Tkinter](https://github.com/Gitsmither/ATS_calc) | На основе набора текстов с разметкой о токсичности создать модель для классификации текстов на позитивные и негативные | `Python`, `nltk`, `TfidfVectorizer`, `Pandas`, `Seaborn`, `Optuna`, `yellowbrick`, NLP, TF-IDF, проверка разметки данных, токенизация, лемматизация |
+| [VUE](https://github.com/Gitsmither/ATS_CRM) | Frontend-часть web-приложения для программы учета электропотребления предприятий-клиентов | `JavaScript`, `Vue.js`, `Vuetify`, `SCSS`, `HTML` |
+| [Tkinter](https://github.com/Gitsmither/ATS_calc) | Desktop-приложение для коммерческого учета и анализа потребления энергии предприятий-клиентов. | `Python`, `Tkinter`,  `Pandas`, `Excel`, `Seaborn` |
+
+
+
+
