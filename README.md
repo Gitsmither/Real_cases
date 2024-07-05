@@ -5,4 +5,4 @@
 | Проект                | Описание           | Стэк и нывыки             |
 |:----------------------|:-------------------|:--------------------------|
 | [VUE](https://github.com/Gitsmither/ATS_CRM) | Создать модель, которая по фотографии определит приблизительный возраст человека | `Tensorflow`, `Keras`, `Python`, `ResNet`, `Seaborn`, CV, обработка изображений |
-| [Tkinter]([https://github.com/Nanobelka/toxic_comments](https://github.com/Gitsmither/ATS_calc)) | На основе набора текстов с разметкой о токсичности создать модель для классификации текстов на позитивные и негативные | `Python`, `nltk`, `TfidfVectorizer`, `Pandas`, `Seaborn`, `Optuna`, `yellowbrick`, NLP, TF-IDF, проверка разметки данных, токенизация, лемматизация |
+| [Tkinter](https://github.com/Gitsmither/ATS_calc) | На основе набора текстов с разметкой о токсичности создать модель для классификации текстов на позитивные и негативные | `Python`, `nltk`, `TfidfVectorizer`, `Pandas`, `Seaborn`, `Optuna`, `yellowbrick`, NLP, TF-IDF, проверка разметки данных, токенизация, лемматизация |
