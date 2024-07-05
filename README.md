@@ -4,8 +4,8 @@
 
 | Проект                | Описание           | Стэк и нывыки             |
 |:----------------------|:-------------------|:--------------------------|
-| [VUE](https://github.com/Gitsmither/ATS_CRM) | Frontend-часть web-приложения для программы учета электропотребления предприятий-клиентов | `JavaScript`, `Vue.js`, `Vuetify`, `SCSS`, `HTML` |
-| [Tkinter](https://github.com/Gitsmither/ATS_calc) | Desktop-приложение для коммерческого учета и анализа потребления энергии предприятий-клиентов. | `Python`, `Tkinter`,  `Pandas`, `Excel`, `Seaborn` |
+| [Frontend web-приложения учета предприятий-энергопотребителей](https://github.com/Gitsmither/ATS_CRM) | Frontend-часть web-приложения для программы учета электропотребления предприятий-клиентов | `JavaScript`, `Vue.js`, `Vuetify`, `SCSS`, `HTML` |
+| [Приложение для анализа энергопотребления предприятий](https://github.com/Gitsmither/ATS_calc) | Desktop-приложение для коммерческого учета и анализа потребления энергии предприятий-клиентов. | `Python`, `Tkinter`,  `Pandas`, `Excel`, `Seaborn` |
 
 
 
